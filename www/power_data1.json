@@ -1,0 +1,35 @@
+{
+    "ECU ID": [
+        "213000031723"
+    ],
+    "Lifetime generation": [
+        "44814.59"
+    ],
+    "Last System Power": [
+        "0"
+    ],
+    "Generation Of Current Day": [
+        "0.58"
+    ],
+    "Last connection to website": [
+        "2024-11-27 15:30:21"
+    ],
+    "Number of Inverters": [
+        "6"
+    ],
+    "Last Number of Inverters Online": [
+        "6"
+    ],
+    "Current Software Version": [
+        "1.0.6"
+    ],
+    "Database Size": [
+        "29786 kB"
+    ],
+    "Current Timezone": [
+        "Europe/Amsterdam"
+    ],
+    "ECU Mac Address": [
+        "80:97:1B:00:85:BE"
+    ]
+}
